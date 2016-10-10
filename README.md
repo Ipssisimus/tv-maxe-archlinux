@@ -1,1 +1,1 @@
-# tv-maxe-archlinux
+# tv-maxe
